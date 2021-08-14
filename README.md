@@ -1,4 +1,4 @@
-# Ispit
+# C/Cpp exam
  My exam in C/CPP. <br>
 Working with strings.<br>
 OOP CPP with inhreitance, txt files and exceptions.<br>
